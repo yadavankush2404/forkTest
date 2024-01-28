@@ -8,7 +8,7 @@
     
     height: 80vh;
     width: 100vw;
-    background:linear-gradient(45deg,rgb(245,86,68),#fff,rgb(71,141,1));
+    background:linear-gradient(45deg,#FF671F,#fff,#046A38);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,7 +23,7 @@
 }
 .inner .c1{
     height:33%;
-    background-color: rgb(245, 86, 68);
+    background-color: #FF671F;
 }
 .inner .c2{
     height: 33%;
@@ -38,5 +38,5 @@
 }
 .inner .c3{
     height: 20vh;
-    background-color:rgb(71, 141, 1)
+    background-color:#046A38;
 }
