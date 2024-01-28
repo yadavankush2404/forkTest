@@ -10,8 +10,16 @@
     width: 100vw;
     background:linear-gradient(45deg,#FF671F,#fff,#046A38);
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    flex-direction: column;
+}
+.outter p{
+    font-size: 40px;
+    font-weight: 550;
+    color:#654f04;
+    text-decoration:underline;
+    text-decoration-style:dashed;
 }
 
 .inner{
